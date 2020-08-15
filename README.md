@@ -9,4 +9,4 @@ The game can be started over at any time by clicking on START OVER. If the game 
 Download and extract the .zip folder. Run the heartsandstars.exe. 
 
 ## Open source code
-The folder 'Code' will contain the open source code and resources. 
+The folder 'src' contains all the QtC++ code and resources. Use Qt Creator and build the .pro file. 

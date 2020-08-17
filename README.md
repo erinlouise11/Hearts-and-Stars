@@ -1,4 +1,4 @@
-# Hearts-and-Stars
+# Hearts and Stars
 A cute remake of the classic game, 'Tic-Tac-Toe'. This is a two player game on a 3x3 board. 
 
 Player 1 selects either hearts or stars and presses START to begin. 
